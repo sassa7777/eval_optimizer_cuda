@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "eval_optimizer", "eval_optimizer.vcxproj", "{DB1D613E-2960-3A78-7336-F7ED7FA97105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1D613E-2960-3A78-7336-F7ED7FA97105}.Debug|x64.ActiveCfg = Debug|x64
+		{DB1D613E-2960-3A78-7336-F7ED7FA97105}.Debug|x64.Build.0 = Debug|x64
+		{DB1D613E-2960-3A78-7336-F7ED7FA97105}.Release|x64.ActiveCfg = Release|x64
+		{DB1D613E-2960-3A78-7336-F7ED7FA97105}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {003DD0A4-402B-4832-896A-A2ED2B2E301D}
+	EndGlobalSection
+EndGlobal
